@@ -1,2 +1,2 @@
-# Ola_Mundo
- Repositório 1 primeiros passos Git e Github
+# Olá Mundo
+ Repositório primeiros passos com Git e GitHub
